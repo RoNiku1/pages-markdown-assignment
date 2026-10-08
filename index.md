@@ -18,8 +18,6 @@ This site is written in Markdown.
 
 1. Do this first.
 1. Then this.
-   *Also this.
-   *Maybe this too.
 1. This one last.
 
 ### Code block:
